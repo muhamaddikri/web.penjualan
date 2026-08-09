@@ -17,7 +17,8 @@ const LS_OWNER_PROFILE = 'sd_owner_profile'; // override nama & password Owner
 
 const DEFAULT_DEMO_USERS = [
   { username: 'owner', password: 'owner123', role: 'owner', name: 'Owner Toko' },
-  { username: 'kasir', password: 'kasir123', role: 'kasir', name: 'Kasir 1' },
+  { username: 'rahma', password: 'rahma123', role: 'kasir', name: 'rahma' },
+  { username: 'putri', password: 'putri123', role: 'kasir', name: 'putri' },
 ];
 
 /** Ambil profil Owner saat ini (nama & password), sudah termasuk perubahan tersimpan. */
